@@ -1,0 +1,6 @@
+{
+    "/cardapio/list": "/cardapio/",
+    "/cardapio/create": "/cardapio/",
+    "/cardapio/update/:Sobremesas": "/cardapio/:Sobremesas",
+    "/cardapio/delete/:Acompanhamentos": "/cardapio/:Acompanhamentos"
+}

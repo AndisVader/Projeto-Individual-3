@@ -1,0 +1,70 @@
+{
+    "Cardapio": [
+        {
+            "nome": "Evertest Burguer",
+            "ingredientes": "Pão, hambúrguer, queijo empanado, cheddar, bacon em cubos e maionese ",
+            "valor": 40
+        },
+        {
+            "nome": "Cheddar Invertido",
+            "ingredientes": "Pão, hambúrguer. cheddar derretido e farofa de bacon",
+            "valor": 35
+        },
+        {
+            "nome": "Cheese Burguer",
+            "ingredientes": "Pão, hambúrguer, maionese, queijo prato",
+            "valor": 20
+        }
+    ],
+    "Acompanhamentos": [
+        {
+            "nome": "Batata frita",
+            "adicionais": "Porção média de batata frita com molho barbecue",
+            "valor": 7
+        },
+        {
+            "nome": "Bolinho de bacalhau",
+            "adicionais": "Porção de bacalhau com 6 bolinhos",
+            "valor": 5
+        },
+        {
+            "nome": "Cebola Empanada",
+            "adicionais": "Porção de cebolas empanadas com 8 unidades",
+            "valor": 10
+        }
+    ],
+    "Sobremesas": [
+        {
+            "nome": "Banoffe",
+            "ingredientes": "Base amanteigada e recheio de doce de leite, banana e creme chantili",
+            "valor": 10
+        },
+        {
+            "nome": "Milkshake de Morango",
+            "ingredientes": "Batida de leite, leite condesado, morango fresco e chantily no topo",
+            "valor": 13
+        },
+        {
+            "nome": "Quindim",
+            "ingredientes": "Coco ralado, gema de ovo, leite de coco e açúcar",
+            "valor": 5
+        }
+    ],
+    "Clientes": [
+        {
+            "nome": "Anderson Assum",
+            "cpf": 14569872632,
+            "rg": 397893078
+        },
+        {
+            "nome": "Júlia Evelyn",
+            "cpf": 20210501123,
+            "id": 789431256
+        },
+        {
+            "nome": "Alice Assum",
+            "cpf": 78965412300,
+            "id": 263471589
+        }
+    ]
+}
