@@ -8,3 +8,5 @@ Contendo dados do Cardápio, Sobremesas, Acompanhamentos e Clientes.
 Utilizando o npm i consegue se acessar o servidor.
 
 Tecnologias utilizadas: JavaScript e Json Server
+
+https://serverjason-i8y9.onrender.com/
